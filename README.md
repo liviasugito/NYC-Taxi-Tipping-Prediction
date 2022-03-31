@@ -4,7 +4,7 @@ The complete report on this project can be viewed at https://www.overleaf.com/re
 
 # Dependencies
 - Language: Python 3.8.3
-- Packages / Libraries: _i.e pandas, pyspark, sklearn, statsmodels, folium, etc... OR add a `requirements.txt`_
+- Packages / Libraries: _see `requirements.txt`_
 
 # Datasets
 - NYC TLC: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
