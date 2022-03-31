@@ -12,14 +12,10 @@ The complete report on this project can be viewed at https://www.overleaf.com/re
 
 # Directory
 
-- `data`: Contains all the raw data files.
-- `data`: Contains all the preprocessed data files.
-- `plots`: Contains all generated figures.
-- `code`: Contains all notebooks and scripts in this folder. Ensure that you have notebooks for each _stage_ of code. Here's an example:
-    - Notebook 1 for "Extracting Data" and "Installing Packages".
-    - Notebook 2 for "Preprocessing" and/or "Exploratory Data Analysis".
-    - Notebook 3 for "Analysis and Visualisation".
-    - Notebook 4 for "Statistical Modelling".
+- `data`: Every data will be stored in this directory (raw data, preprocessed data and aggregated data)
+- `plots`: Contains all Folium maps required for visualisations.
+- `code`: Contains all the notebooks. Please run each notebook in order.
+- `deprecated`: A folder to store "old code".
 
 
 # Getting Started
