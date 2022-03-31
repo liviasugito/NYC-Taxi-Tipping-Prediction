@@ -1,5 +1,6 @@
 # Yellow Taxi Tipping Percentage Prediction
-
+This project works on predicting the tipping percentage of New York City's iconic yellow taxi riders.
+The complete report on this project can be viewed at https://www.overleaf.com/read/qbfgkrwxsmbf.
 
 # Dependencies
 - Language: Python 3.8.3
